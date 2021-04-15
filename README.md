@@ -1,7 +1,7 @@
 # Data Masterclass, April 2021
 
 
-<img src="titleslide.png" alt="The Future of AI Skills" />
+<img src="titleslide.png" alt="Data Masterclass, April 2021" />
 
 Slide deck as [PDF](2021_AprilDataMasterclass.pdf) - available shortly after the session.
 
